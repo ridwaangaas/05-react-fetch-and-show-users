@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/05-react-fetch-and-show-users-and-filter-data/static/css/main.dab460fb.css",
+    "main.js": "/05-react-fetch-and-show-users-and-filter-data/static/js/main.3715e678.js",
+    "index.html": "/05-react-fetch-and-show-users-and-filter-data/index.html",
+    "main.dab460fb.css.map": "/05-react-fetch-and-show-users-and-filter-data/static/css/main.dab460fb.css.map",
+    "main.3715e678.js.map": "/05-react-fetch-and-show-users-and-filter-data/static/js/main.3715e678.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dab460fb.css",
+    "static/js/main.3715e678.js"
+  ]
+}
